@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\AppWeb",
-    "\\AppWeb\\AppWeb",
-    "\\AppWeb\\AppWeb\\Views\\Home"
+    "\\AppWeb\\AppWeb"
   ],
-  "SelectedNode": "\\AppWeb\\AppWeb\\Program.cs",
+  "SelectedNode": "\\AppWeb\\AppWeb.sln",
   "PreviewInSolutionExplorer": false
 }
