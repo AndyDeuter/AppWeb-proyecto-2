@@ -13,6 +13,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{4C37CD23-7B21-4E8B-AC23-B2429B6032A3}|AppWeb\\AppWeb.csproj|c:\\users\\anderson\\desktop\\appweb\\appweb\\appweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4C37CD23-7B21-4E8B-AC23-B2429B6032A3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C37CD23-7B21-4E8B-AC23-B2429B6032A3}|AppWeb\\AppWeb.csproj|c:\\users\\anderson\\desktop\\appweb\\appweb\\appweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C37CD23-7B21-4E8B-AC23-B2429B6032A3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C37CD23-7B21-4E8B-AC23-B2429B6032A3}|AppWeb\\AppWeb.csproj|c:\\users\\anderson\\desktop\\appweb\\appweb\\appweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C37CD23-7B21-4E8B-AC23-B2429B6032A3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Migrations\\20260219164952_Inicial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AppWeb\\Migrations\\20260219164952_Inicial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C37CD23-7B21-4E8B-AC23-B2429B6032A3}|AppWeb\\AppWeb.csproj|c:\\users\\anderson\\desktop\\appweb\\appweb\\appweb\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C37CD23-7B21-4E8B-AC23-B2429B6032A3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C37CD23-7B21-4E8B-AC23-B2429B6032A3}|AppWeb\\AppWeb.csproj|c:\\users\\anderson\\desktop\\appweb\\appweb\\appweb\\models\\videojuegos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C37CD23-7B21-4E8B-AC23-B2429B6032A3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\models\\videojuegos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C37CD23-7B21-4E8B-AC23-B2429B6032A3}|AppWeb\\AppWeb.csproj|c:\\users\\anderson\\desktop\\appweb\\appweb\\appweb\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C37CD23-7B21-4E8B-AC23-B2429B6032A3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C37CD23-7B21-4E8B-AC23-B2429B6032A3}|AppWeb\\AppWeb.csproj|c:\\users\\anderson\\desktop\\appweb\\appweb\\appweb\\migrations\\20260219164400_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C37CD23-7B21-4E8B-AC23-B2429B6032A3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\migrations\\20260219164400_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,15 +74,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Program.cs",
-              "RelativeDocumentMoniker": "AppWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Program.cs",
-              "RelativeToolTip": "AppWeb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T18:04:41.962Z",
+              "WhenOpened": "2026-02-19T17:59:53.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AppWeb\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T17:59:44.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260219164952_Inicial2.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Migrations\\20260219164952_Inicial2.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Migrations\\20260219164952_Inicial2.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Migrations\\20260219164952_Inicial2.cs",
+              "RelativeToolTip": "AppWeb\\Migrations\\20260219164952_Inicial2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:49:52.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Videojuegos.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Models\\Videojuegos.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Models\\Videojuegos.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Models\\Videojuegos.cs",
+              "RelativeToolTip": "AppWeb\\Models\\Videojuegos.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:52:36.512Z",
               "EditorCaption": ""
             },
             {
@@ -65,9 +132,10 @@
               "RelativeDocumentMoniker": "AppWeb\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Data\\AppDbContext.cs",
               "RelativeToolTip": "AppWeb\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T17:56:59.464Z"
+              "WhenOpened": "2026-02-17T17:56:59.464Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -77,9 +145,62 @@
               "RelativeDocumentMoniker": "AppWeb\\appsettings.json",
               "ToolTip": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\appsettings.json",
               "RelativeToolTip": "AppWeb\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-17T17:50:16.068Z"
+              "WhenOpened": "2026-02-17T17:50:16.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Models\\Compra.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Models\\Compra.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Models\\Compra.cs",
+              "RelativeToolTip": "AppWeb\\Models\\Compra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:52:40.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Program.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Program.cs",
+              "RelativeToolTip": "AppWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T18:04:41.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260219164400_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Migrations\\20260219164400_Inicial.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Migrations\\20260219164400_Inicial.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Migrations\\20260219164400_Inicial.cs",
+              "RelativeToolTip": "AppWeb\\Migrations\\20260219164400_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:44:01.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Anderson\\Desktop\\AppWeb\\AppWeb\\AppWeb\\Models\\Usuario.cs",
+              "RelativeToolTip": "AppWeb\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:52:37.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-
+using System.ComponentModel.DataAnnotations.Schema;
 namespace AppWeb.Models
 {
     public class Videojuegos
@@ -11,6 +11,7 @@ namespace AppWeb.Models
         public string titulo { get; set; }
 
         [Required]
+        [Column(TypeName = "decimal(10,2)")]
         public decimal precio { get; set; }
 
         [Required]
